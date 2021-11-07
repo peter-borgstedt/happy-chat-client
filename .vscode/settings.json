@@ -1,0 +1,18 @@
+{
+  "files.eol": "\n",
+  "liveServer.settings.port": 5501,
+  "liveServer.settings.root": "/",
+  "liveServer.settings.file": "index.html",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.https": {
+    "enable": false,
+    "cert": "/Users/peter/Workspace/wu-final-app/https/localhost.pem",
+    "key": "/Users/peter/Workspace/wu-final-app/https/localhost.key",
+    "passphrase": "localhost"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true
+  },
+  "explorer.compactFolders": false
+}
